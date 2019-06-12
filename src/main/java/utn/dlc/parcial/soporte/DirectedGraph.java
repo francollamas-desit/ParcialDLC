@@ -1,5 +1,5 @@
 
-package soporte;
+package utn.dlc.parcial.soporte;
 
 import java.util.LinkedList;
 

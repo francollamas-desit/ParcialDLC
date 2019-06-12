@@ -1,6 +1,6 @@
-package interfaz;
+package utn.dlc.parcial.interfaz;
 
-import soporte.*;
+import utn.dlc.parcial.soporte.*;
 
 /**
  * Una clase para contener un main de prueba para la implementación de grafos

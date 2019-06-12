@@ -1,4 +1,4 @@
-package soporte;
+package utn.dlc.parcial.soporte;
 
 /**
  * Usada para representar arcos dirigidos en la implementación de grafos 

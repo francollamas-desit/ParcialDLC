@@ -1,4 +1,4 @@
-package interfaz;
+package utn.dlc.parcial.interfaz;
 
 public class Consola
 {
